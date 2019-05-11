@@ -1,0 +1,16 @@
+main{background:#eee;border-top:1px solid #d4237a;border-bottom: 1px solid #eee}
+main .login{background:#fff url(../img/login.png) no-repeat left;background-size:500px 500px;height:500px;margin:60px 0;padding-left:500px;text-align: center}
+main .login h3{font:600 40px/2 "";color:#000;}
+main .login li{overflow:hidden;width:320px;margin:0 auto;text-align: left;}
+main .login li span{display:block;height:30px;width:200px;font:16px/30px "";}
+main .login input{width:300px;height:30px;background:#fff;border:1px solid #ccc;outline: none;text-indent: 1em;font:16px/30px "";color:#000;cursor: pointer;}
+main .login input#code{width:100px;float: left;}
+main .login ul li b{width:78px;font:22px/30px "";color:#000;text-align: center;display: inline-block}
+main .login input#code2{width:140px;border:none;color:blue;cursor: pointer;float: right;text-align: left;font-size: 14px;}
+main .login input[type="checkbox"]{width:16px;height:16px;float: left;margin-top:7px;}
+main .login label{font:16px/32px "";color:#000;float: left;margin-right:40px;padding-left:10px;}
+main #login{width:220px;background:#d4237a;color:#fff;height: 40px;float: left;}
+main .forget{float:left;border-bottom: 1px solid #000;margin:12px 0 0 10px;font-size: 16px;cursor: pointer;}
+main .register{overflow: hidden;width:320px;border-top:1px dashed #ccc;margin:20px auto;padding-top:20px;}
+main .register p{float: left;}
+main .register a{float: right;padding:0 20px;font:16px/2 "";color:#505050;border:1px solid #ccc;}

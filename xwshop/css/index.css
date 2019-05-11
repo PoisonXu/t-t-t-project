@@ -1,0 +1,90 @@
+
+
+/* 背景轮播图 */
+#banner{height:480px;border-top:1px solid #ccc;position: relative;}
+#banner .layout{position: relative;height:480px;}
+#banner a{position: absolute;left:-360px;z-index: -3;opacity: 0;}
+#banner a:nth-child(3){opacity: 1;}
+#banner input{width:40px;height: 80px;background:rgba(0,0,0,.3);position: absolute;top:210px;border:none;text-align: center;font:50px/80px "";color:#505050;outline: none;cursor: pointer;}
+#banner input.left{opacity:0;left:310px;border-radius: 10px 0 0 10px;}
+#banner input.right{opacity:0;right:0;border-radius: 0 10px 10px 0;}
+#banner ul{position: absolute;height:40px;width:200px;border-radius: 10px;background:rgba(0,0,0,.3);left:0;right: 0;bottom: 20px;margin:auto;display: flex;justify-content: space-around;align-items: center;}
+#banner ul li{width:20px;height:20px;background:#fff;border-radius: 50%;cursor: pointer;}
+
+
+
+/* 商品主体部分 */
+main{background:#eee;}
+/* 热卖推荐 */
+main .hotsale{}
+main h3{font:700 22px/50px "";padding-left:10px;}
+main h3 span{font:16px/50px "";color:#505050;margin-left:20px;}
+main .hotsale ul{background:#fff;overflow: hidden;}
+main .hotsale ul li{width:236px;border:2px solid #fff;float: left;}
+main .hotsale ul li:hover{border:2px solid #d4237a;}
+main .hotsale ul li a{display: block;}
+main .hotsale ul li a img{display: block;width:236px;}
+main .hotsale ul li a p{font:700 16px/30px "";color:#000;text-indent: 1em;}
+main .hotsale ul li a p:hover{color:#d4237a;}
+main .hotsale ul li span{display:block;font:16px/30px "";color:#d4237a;text-indent: 1em;}
+
+/* 热卖品牌 */
+main .hotbrand{}
+main .hotbrand ul{overflow: hidden;background:#fff;}
+main .hotbrand ul li{float: left;position: relative;}
+main .hotbrand ul li a{display: block;width:300px;height:100px;}
+main .hotbrand ul li a p{position: absolute;left:0;top:0;right: 0;bottom: 0;margin:auto;width:0;height: 0;white-space: nowrap;}
+/* 有动画效果需要实现 */
+
+/* 产品1、来自大自然的母乳 */
+main .pro1{position: relative;}
+main .banner{height:400px;}
+main .banner img{display: block;height:400px;width: 1200px;}
+main .pro1 ul{overflow: hidden;background:#fff;}
+main .pro1 ul li{width:236px;border:2px solid #fff;float: left;}
+main .pro1 ul li:hover{border:2px solid #d4237a;}
+main .pro1 ul li a{display: block;}
+main .pro1 ul li a img{display: block;width:236px;}
+main .pro1 ul li a p{font:700 16px/30px "";color:#000;text-indent: 1em;}
+main .pro1 ul li a p:hover{color:#d4237a;}
+main .pro1 ul li span{display:block;font:16px/30px "";color:#d4237a;text-indent: 1em;}
+main .pro1 input{width:40px;height: 80px;background:rgba(0,0,0,.3);position: absolute;top:560px;border:none;text-align: center;font:50px/80px "";color:#505050;outline: none;cursor: pointer;}
+main .pro1 .left{left:10px;border-radius: 10px 0 0 10px;}
+main .pro1 .right{right:10px;border-radius: 0 10px 10px 0;}
+
+/* 产品2、飞利浦新安怡 */
+main .pro2{}
+main .pro2 .tab{overflow: hidden;}
+main .pro2 .tab li{float: left;width:120px;height:40px;font:22px/40px "";color:#000;text-align: center;}
+main .pro2 .effect{width:120px;height: 10px;}
+main .pro2 .effect b{margin:0 auto;display: block;width:0;height:0;border-bottom: 10px solid #d4237a;border-left: 10px solid #eee;border-right:10px solid #eee;}
+main .pro2 .product{border-top:2px solid #d4237a;background: #fff;position: relative;}
+main .pro2 .product input[type="button"]{width:40px;height: 80px;background:rgba(0,0,0,.3);position: absolute;top:100px;border:none;text-align: center;font:50px/80px "";color:#505050;outline: none;cursor: pointer;}
+main .pro2 .product .left{left:10px;border-radius: 10px 0 0 10px}
+main .pro2 .product .right{right:10px;border-radius: 0 10px 10px 0;}
+main .pro2 .product .goods{width:100%;background:#fff;}
+main .pro2 .product .goods ul{overflow: hidden;width:1200px;background:#fff;display:none;}
+main .pro2 .product .goods ul:nth-child(1){display: block}
+main .pro2 .product .goods ul li{width:236px;border:2px solid #fff;padding-bottom: 10px;float: left;}
+main .pro2 .product .goods ul li:hover{border:2px solid #d4237a;}
+main .pro2 .product .goods img{width:236px;display: block;}
+main .pro2 .product .goods h4{text-align:center;font:700 18px/2 "";color:#000;}
+main .pro2 .product .goods p{text-align: center;font:16px/2 "";color:#d4237a;}
+main .pro2 .product .goods span{font:20px/2 "";}
+main .pro2 .product .goods s{font:16px/40px "";color:#666;}
+main .pro2 .product .goods .buy{background: #d4237a;width:70px;height:32px;border:none;outline: none;font:16px/2 "";color:#fff;border-radius:5px;margin-right:10px;cursor: pointer;float: right;}
+
+/* 生活百科 */
+main .life{}
+main .life ul{display: flex;justify-content: space-between;width: 1200px;flex-wrap:wrap; }
+main .life ul li{width:390px;background:#fff;margin-bottom: 20px;}
+main .life ul li h4{font:700 18px/2 "";color:#000;padding-left: 10px;}
+main .life ul li p{font:16px/2 "";color:#666;padding-left:10px;}
+main .life ul li img{width:390px;height:200px;}
+
+
+
+
+
+
+

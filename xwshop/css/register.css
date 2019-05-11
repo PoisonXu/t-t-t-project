@@ -1,0 +1,34 @@
+main{background:#eee;border-top:1px solid #d4237a;border-bottom: 1px solid #eee}
+main .layout{background:#fff;height:500px;margin:60px auto;text-align: center}
+main .register{width:600px;float: left;}
+main .register h3{font:600 40px/2 "";color:#000;}
+main .register ul{border-right: 1px solid #d4237a;}
+main .register ul li{height:30px;padding:10px 0;}
+main .register ul li label{width:140px;float: left;text-align: right;font:16px/30px "";}
+main .register ul li input{width:300px;float: left;height:30px;margin-left:10px;border:1px solid #ccc;text-indent: 1em;}
+main #code{width:100px;cursor: pointer;}
+main .register ul li b{float: left;width:80px;font:22px/30px "";}
+main #code2{width:120px;background:none;border:none;font-size:12px;line-height:30px;color:blue;}
+main #che{margin:7px 10px 0 150px;height:16px;width:16px;}
+main .register ul li .read{width:400px;font:12px/30px "";text-align: left;}
+main .register ul li .read a{color:blue;}
+main #register{width:200px;background: #d4237a;color:#fff;height:30px;text-align: center;margin:0 auto;float: none;}
+
+main .login{float: left;padding:50px 70px;}
+main .login p{float: left;font:16px/2 "";color:#000;}
+main .login a{float: left;margin-left:30px;padding:0 20px;border:1px solid #ccc;background:#d4237a;font:16px/2 "";color:#fff;cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

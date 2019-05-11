@@ -1,0 +1,153 @@
+main {
+  background: #eee; }
+  main h3 {
+    height: 40px;
+    font: 16px/40px "";
+    color: #505050;
+    text-indent: 20px; }
+  main .det-contain {
+    position: relative;
+    overflow: hidden;
+    border-top: 1px solid #ccc;
+    padding-top: 40px; }
+    main .det-contain .bigger {
+      float: left;
+      width: 600px;
+      position: relative; }
+      main .det-contain .bigger .big {
+        width: 400px;
+        height: 400px;
+        position: absolute;
+        left: 700px;
+        top: 0;
+        overflow: hidden;
+        display: none; }
+        main .det-contain .bigger .big .big-img {
+          width: 800px;
+          height: 800px;
+          display: block;
+          position: absolute; }
+      main .det-contain .bigger .small {
+        position: relative;
+        width: 600px;
+        height: 600px; }
+        main .det-contain .bigger .small .small-img {
+          width: 600px;
+          height: 600px; }
+        main .det-contain .bigger .small i {
+          width: 300px;
+          height: 300px;
+          position: absolute;
+          background: rgba(100, 100, 100, 0.3);
+          top: 0;
+          display: none; }
+      main .det-contain .bigger .imglist {
+        margin: 10px 0;
+        height: 100px;
+        position: relative; }
+        main .det-contain .bigger .imglist ul {
+          padding-left: 40px; }
+          main .det-contain .bigger .imglist ul li {
+            float: left;
+            margin: 10px; }
+            main .det-contain .bigger .imglist ul li img {
+              width: 80px;
+              height: 80px; }
+        main .det-contain .bigger .imglist input {
+          position: absolute;
+          font: 40px/100px "";
+          color: #000;
+          background: rgba(0, 0, 0, 0.2);
+          border: none;
+          outline: none;
+          width: 40px;
+          height: 100px; }
+        main .det-contain .bigger .imglist input#left {
+          left: 0; }
+        main .det-contain .bigger .imglist input#right {
+          right: 0; }
+    main .det-contain .contain {
+      float: right;
+      width: 560px; }
+      main .det-contain .contain h4 {
+        width: 560px;
+        font: 700 22px/40px ""; }
+      main .det-contain .contain p {
+        font: 18px/40px "";
+        width: 560px; }
+      main .det-contain .contain ul {
+        width: 560px;
+        background: #ccc;
+        padding-left: 20px;
+        padding-top: 20px; }
+        main .det-contain .contain ul li {
+          height: 30px; }
+          main .det-contain .contain ul li span {
+            font: 16px/30px ""; }
+        main .det-contain .contain ul li:nth-child(1) em {
+          font: 22px/30px "";
+          margin: 0 10px; }
+        main .det-contain .contain ul li:nth-child(2) s {
+          font: 16px/30px "";
+          margin-left: 15px; }
+      main .det-contain .contain .cont {
+        height: 40px;
+        margin: 40px 0;
+        overflow: hidden; }
+        main .det-contain .contain .cont span {
+          font: 22px/40px "";
+          float: left; }
+        main .det-contain .contain .cont .red {
+          float: left;
+          width: 22px;
+          height: 22px;
+          margin-top: 9px;
+          font: 16px/22px "";
+          background: #ccc;
+          border: 1px solid #ccc;
+          border-right: 0; }
+        main .det-contain .contain .cont .num {
+          text-align: center;
+          float: left;
+          width: 44px;
+          height: 20px;
+          margin-top: 9px;
+          font: 16px/22px "";
+          background: #fff;
+          border: 1px solid #ccc; }
+        main .det-contain .contain .cont .add {
+          float: left;
+          width: 22px;
+          height: 22px;
+          margin-top: 9px;
+          font: 16px/22px "";
+          background: #ccc;
+          border: 1px solid #ccc;
+          border-left: 0; }
+      main .det-contain .contain #buynow {
+        width: 200px;
+        height: 50px;
+        font: 24px/50px "";
+        background: #fff;
+        border: 1px solid #ccc;
+        margin: 0 10px; }
+      main .det-contain .contain #addcar {
+        width: 220px;
+        height: 50px;
+        font: 24px/50px "";
+        background: #d4237a;
+        border: 1px solid #ccc;
+        color: #fff; }
+
+
+        main .det-contain .contain .shopcar2{position: absolute;width:350px;height:200px;background:#fff;right:115px;top:440px;text-align: center;border:1px solid #999;display:none;}
+        main .det-contain .contain .shopcar2 h4{height:40px;background: #aaa;margin-bottom: 40px;width:350px;}
+        main .det-contain .contain .shopcar2 h4 span{float: left;font:22px/40px "";color:#000;margin-left: 10px;}
+        main .det-contain .contain .shopcar2 h4 i{float: right;position: relative;width:40px ;height:40px;}
+        main .det-contain .contain .shopcar2 h4 i::before{content:"";display: block;width:20px;height:5px;background:#666;position: absolute;left:0;right:0;top:0;bottom:0;margin:auto;transform: rotate(45deg)}
+        main .det-contain .contain .shopcar2 h4 i::after{content:"";display: block;width:20px;height:5px;background:#666;position: absolute;left:0;right:0;top:0;bottom:0;margin:auto;transform: rotate(-45deg)}
+
+        main .det-contain .contain .shopcar2 p{height:30px;font:16px/30px "";width:350px;}
+        main .det-contain .contain .shopcar2 .shop{margin-top:20px;}
+        main .det-contain .contain .shopcar2 .shop .con{width:100px;height: 30px;background:#fff;border:1px solid #ccc;font:16px/30px "";color:#000;}
+        main .det-contain .contain .shopcar2 .shop .ent{width:150px;height: 30px;background:#d4237a;border:1px solid #ccc;font:16px/30px "";color:#fff;}

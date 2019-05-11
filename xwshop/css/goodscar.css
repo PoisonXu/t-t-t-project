@@ -1,0 +1,101 @@
+main {
+  padding: 40px 0;
+  background: #eee; }
+  main input {
+    cursor: pointer; }
+  main .none-have {
+    background: #fff;
+    min-height: 400px;
+    margin: 20px 0; }
+    main .none-have h4 {
+      font: 100px/400px "";
+      text-align: center; }
+    main .none-have h3 {
+      font: 22px/40px "";
+      height: 40px;
+      margin-top: 20px; }
+    main .none-have table {
+      width: 1200px;
+      text-align: center; }
+      main .none-have table .check {
+        width: 20px;
+        height: 20px; }
+      main .none-have table thead {
+        background: #ccc;
+        height: 40px;
+        font: 400 18px/40px ""; }
+        main .none-have table thead th {
+          width: 100px; }
+        main .none-have table thead th:nth-child(2) {
+          width: 150px; }
+        main .none-have table thead th:nth-child(5) {
+          width: 150px; }
+        main .none-have table thead th:nth-child(9) {
+          width: 300px; }
+      main .none-have table tbody tr {
+        background: #fff;
+        border-bottom: 1px solid #ccc;
+        font: 16px/30px ""; }
+        main .none-have table tbody tr td {
+          width: 100px; }
+        main .none-have table tbody tr td:nth-child(2) img {
+          width: 100px;
+          height: 100px; }
+        main .none-have table tbody tr td:nth-child(5) {
+          overflow: hidden; }
+          main .none-have table tbody tr td:nth-child(5) .red {
+            float: left;
+            width: 30px;
+            height: 30px;
+            background: #ccc;
+            border: none;
+            margin-left: 15px; }
+          main .none-have table tbody tr td:nth-child(5) .num {
+            float: left;
+            width: 58px;
+            height: 28px;
+            border: 1px solid #ccc;
+            background: #fff;
+            text-align: center; }
+          main .none-have table tbody tr td:nth-child(5) .add {
+            float: left;
+            width: 30px;
+            height: 30px;
+            background: #ccc;
+            border: none; }
+      main .none-have table tfoot {
+        background: #eee; }
+        main .none-have table tfoot tr:nth-child(1) {
+          height: 100px;
+          text-align: right; }
+          main .none-have table tfoot tr:nth-child(1) td:nth-child(9) p span {
+            font: 16px/40px "";
+            text-align: left;
+            width: 170px;
+            display: inline-block; }
+          main .none-have table tfoot tr:nth-child(1) td:nth-child(9) p em {
+            font: 16px/40px ""; }
+          main .none-have table tfoot tr:nth-child(1) td:nth-child(9) p:nth-child(1) span {
+            font: 20px/40px "";
+            color: red; }
+          main .none-have table tfoot tr:nth-child(1) td:nth-child(9) p:nth-child(3) span {
+            font: 700 24px/40px "";
+            color: red; }
+        main .none-have table tfoot tr:nth-child(2) {
+          height: 100px; }
+          main .none-have table tfoot tr:nth-child(2) td:nth-child(2) input {
+            width: 148px;
+            height: 50px;
+            font: 22px/50px "";
+            background: #fff;
+            border: 1px solid #ccc; }
+          main .none-have table tfoot tr:nth-child(2) td:nth-child(8) span {
+            font-size: 16px;
+            cursor: pointer; }
+          main .none-have table tfoot tr:nth-child(2) td:nth-child(9) input {
+            width: 200px;
+            height: 50px;
+            font: 22px/50px "";
+            background: #d4237a;
+            border: 1px solid #ccc;
+            color: #fff; }

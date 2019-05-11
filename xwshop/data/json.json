@@ -1,0 +1,154 @@
+[
+    {
+    "goodsID": "xwshop111",
+    "goodsSname": "口水润肤霜",
+    "goodsName": "戒之馆婴亲霜湿痒婴儿疹子膏儿童露宝宝护肤品口水润肤霜婴宝面霜",
+    "goodsPrice": 79,
+    "goodsMark":"护肤品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/1.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/1.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp","http://localhost:83/xwshop/data/images/5.webp"]    
+    },
+    {
+    "goodsID": "xwshop222",
+    "goodsSname": "纯棉婴儿服",
+    "goodsName": "纯棉婴儿衣服新生儿礼盒春夏刚初出生宝宝套装",
+    "goodsPrice": 149.9,
+    "goodsMark":"服饰",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/2.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/2.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp","http://localhost:83/xwshop/data/images/5.webp"]
+    },
+    {"goodsID": "xwshop333",
+    "goodsSname": "夏季儿童服",
+    "goodsName": "新生儿礼盒套装夏季儿衣服礼物用品 母婴 刚出生初生满月猪宝宝大全",
+    "goodsPrice": 89,
+    "goodsMark":"服饰",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/3.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/3.webp"] 
+    },
+    {
+    "goodsID": "xwshop444",
+    "goodsSname": "农夫山泉1*12",
+    "goodsName": "农夫山泉饮用天然水（适合婴幼儿）1L*12瓶/箱 母婴 水",
+    "goodsPrice": 108,   
+    "goodsMark":"生活用品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/4.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/4.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop555",
+    "goodsSname": "农夫山泉1*8",
+    "goodsName": "农夫山泉饮用天然水（适合婴幼儿）1L*8瓶/箱 母婴 水",
+    "goodsPrice": 59.9,
+    "goodsMark":"生活用品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/5.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/5.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop666",
+    "goodsSname": "母婴小冰箱",
+    "goodsName": "minij/小吉 B1 105M单门小型复古 母婴 小冰箱静音风冷无霜",
+    "goodsPrice": 2699.99,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/6.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/6.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop777",
+    "goodsSname": "水感防晒露",
+    "goodsName": "启初婴儿水感防晒露45g SPF40 母婴 儿童防晒霜宝宝防晒滋润防晒乳",
+    "goodsPrice": 38.8,
+    "goodsMark":"护肤品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/7.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/7.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop888",
+    "goodsSname": "新生儿礼盒",
+    "goodsName": "eoodoo新生儿礼盒套装春夏初生刚出生婴儿衣服宝宝满月 母婴 用品",
+    "goodsPrice": 78.72,
+    "goodsMark":"礼品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/8.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/8.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop999",
+    "goodsSname": "猪猪宝宝礼物",
+    "goodsName": "刚出生猪宝宝礼物 母婴 儿衣服套装初生用品满月新生儿礼盒礼品高档",
+    "goodsPrice": 169.9,
+    "goodsMark":"礼品",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/9.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/9.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop101010",
+    "goodsSname": "恒温调奶器",
+    "goodsName": "小壮熊婴儿恒温调奶器玻璃水壶热水智能冲奶机泡奶粉全自动温奶暖",
+    "goodsPrice": 89,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/10.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/10.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop111111",
+    "goodsSname": "家用直饮水机",
+    "goodsName": "美庄臣净水器家用直饮水机即热式自来水过滤器加热一体超滤净水机",
+    "goodsPrice": 898,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/11.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/11.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"]  
+    },
+    {
+    "goodsID": "xwshop121212",
+    "goodsSname": "落地式加湿器",
+    "goodsName": "C50Q1落地式加湿器家用静音卧室孕妇办公室全自动",
+    "goodsPrice": 129,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/12.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/12.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"]  
+    },
+    {
+    "goodsID": "xwshop131313",
+    "goodsSname": "创意电蚊香",
+    "goodsName": "防蚊子创意可爱电灭蚊家用酒店插电器母婴室内户外儿童房间电子",
+    "goodsPrice": 98,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/13.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/13.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop141414",
+    "goodsSname": "便携式婴儿车",
+    "goodsName": "玩具车童车摇床儿童电动车电器大货架母婴店高柜靠墙货架佳城货架",
+    "goodsPrice": 108.8,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/14.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/14.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"]  
+    },
+    {
+    "goodsID": "xwshop151515",
+    "goodsSname": "家用消毒柜",
+    "goodsName": "大容量消毒柜家用立式迷你小型双门不锈钢母婴消毒柜",
+    "goodsPrice": 999,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/15.webp" ,
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/15.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"] 
+    },
+    {
+    "goodsID": "xwshop161616",
+    "goodsSname": "母婴电炖锅",
+    "goodsName": "陶瓷隔水炖盅带盖双耳电炖锅 母婴电炖锅加厚",
+    "goodsPrice": 99,
+    "goodsMark":"电器",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/16.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/16.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"]  
+    },
+    {
+    "goodsID": "xwshop171717",
+    "goodsSname": "大容量双肩包",
+    "goodsName": "2019新款时尚妈咪包女多功能大容量双肩包母婴儿外出妈妈包",
+    "goodsPrice": 109,
+    "goodsMark":"服饰",
+    "goodsSrc": "http://localhost:83/xwshop/data/images/17.webp",
+    "goodsSsrc": ["http://localhost:83/xwshop/data/images/17.webp","http://localhost:83/xwshop/data/images/3.webp","http://localhost:83/xwshop/data/images/4.webp"]  
+    } 
+]
