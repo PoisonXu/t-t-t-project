@@ -1,4 +1,5 @@
 window.onload = function(){
+ let onoffLog = false;
 //登录
 class Login{
     constructor(){
